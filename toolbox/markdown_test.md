@@ -1,7 +1,7 @@
 ## Data Science Specialization
 
-li Uses R
+* Uses R
 
-li Nine courses
+* Nine courses
 
-li Goes from raw data to data products
+* Goes from raw data to data products
